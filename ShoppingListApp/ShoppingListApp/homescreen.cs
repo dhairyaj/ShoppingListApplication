@@ -29,5 +29,13 @@ namespace ShoppingListApp
             addItem.ShowDialog();
             this.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            DisplayAll displayAll = new DisplayAll();
+            displayAll.ShowDialog();
+            this.Show();
+        }
     }
 }

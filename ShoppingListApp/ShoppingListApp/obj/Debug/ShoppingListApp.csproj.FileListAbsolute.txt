@@ -28,3 +28,4 @@ C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListAp
 C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\BouncyCastle.Crypto.dll
 C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\MySql.Data.xml
 C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csproj.CopyComplete
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.DisplayAll.resources

@@ -53,6 +53,12 @@
     <Compile Include="AddItem.Designer.cs">
       <DependentUpon>AddItem.cs</DependentUpon>
     </Compile>
+    <Compile Include="DisplayAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayAll.Designer.cs">
+      <DependentUpon>DisplayAll.cs</DependentUpon>
+    </Compile>
     <Compile Include="homescreen.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,9 @@
     </Compile>
     <EmbeddedResource Include="AddItem.resx">
       <DependentUpon>AddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayAll.resx">
+      <DependentUpon>DisplayAll.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="homescreen.resx">
       <DependentUpon>homescreen.cs</DependentUpon>
