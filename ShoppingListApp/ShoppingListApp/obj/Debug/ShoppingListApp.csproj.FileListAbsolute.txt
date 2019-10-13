@@ -10,3 +10,21 @@ C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\Sho
 C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.RegisterForm.resources
 C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.AddItem.resources
 C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.homescreen.resources
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.exe.config
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.exe
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.pdb
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csprojAssemblyReference.cache
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.AddItem.resources
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.homescreen.resources
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.LoginForm.resources
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.Properties.Resources.resources
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.RegisterForm.resources
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csproj.GenerateResource.cache
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.exe
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.pdb
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\MySql.Data.dll
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\Renci.SshNet.dll
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\bin\Debug\MySql.Data.xml
+C:\Users\Pavilion\Desktop\ShoppingListApplication\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csproj.CopyComplete

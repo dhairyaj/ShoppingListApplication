@@ -21,5 +21,13 @@ namespace ShoppingListApp
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            AddItem addItem = new AddItem();
+            addItem.ShowDialog();
+            this.Show();
+        }
     }
 }
