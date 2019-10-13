@@ -1,0 +1,12 @@
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.exe.config
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.exe
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\bin\Debug\ShoppingListApp.pdb
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csprojAssemblyReference.cache
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.LoginForm.resources
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.Properties.Resources.resources
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.csproj.GenerateResource.cache
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.exe
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.pdb
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.RegisterForm.resources
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.AddItem.resources
+C:\Users\Dhairya Jain\source\repos\ShoppingListApp\ShoppingListApp\obj\Debug\ShoppingListApp.homescreen.resources
